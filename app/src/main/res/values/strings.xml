@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KTB</string>
+    <string name="recording">Recording</string>
+    <string name="permition_text">permision_text</string>
+    <string name="TextSize">"New Project "</string>
+    <string name="label_permissions">Allow To Permission</string>
 </resources>
