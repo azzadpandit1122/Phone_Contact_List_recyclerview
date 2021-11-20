@@ -6,8 +6,14 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context=".MainActivity">
-
+    tools:context=".SR">
+    <TextView
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        android:text="@string/TextSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
     <LinearLayout
         android:gravity="center"
         android:orientation="vertical"
@@ -21,7 +27,12 @@
             android:id="@+id/readText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
-
+        <Chronometer
+            android:id="@+id/chronometer"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
 
         <ToggleButton
             android:id="@+id/toggle"
@@ -32,6 +43,5 @@
             android:layout_height="wrap_content"/>
 
     </LinearLayout>
-
 
 </LinearLayout>

@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sh/Desktop/KTB/app/src/main/res/drawable/rounded.xml" value="0.2203125" />
         <entry key="..\:/Users/sh/Desktop/KTB/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/sh/Desktop/KTB/app/src/main/res/layout/activity_sr.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/sh/Desktop/KTB/app/src/main/res/layout/row_contact.xml" value="0.9178571428571428" />
         <entry key="..\:/Users/sh/Desktop/KTB/app/src/main/res/layout/row_layout.xml" value="0.20416666666666666" />
       </map>
